@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniatitienei
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m working in Kotlin, Jetpack Compose.
+- 🌱 I’m working in Kotlin and Jetpack Compose.
 - 📫 How to reach me: daniatitienei@gmail.com
 
 
