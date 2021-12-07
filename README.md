@@ -3,7 +3,12 @@
 - 🌱 I’m currently learning Kotlin, Jetpack Compose.
 - 📫 How to reach me: daniatitienei@gmail.com
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniatitienei&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daniatitienei)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 daniatitienei/daniatitienei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
