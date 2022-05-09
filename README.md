@@ -5,7 +5,6 @@
 - Linkedin: https://www.linkedin.com/in/daniel-atitienei-07446020a/?locale=en_US
 
 My tech stack ✨:
-- Android Development
 - Jetpack Compose
 - MVVM / Clean Architecture
 - Retrofit
