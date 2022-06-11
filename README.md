@@ -2,7 +2,6 @@
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m using Kotlin and Jetpack Compose.
 - 📫 Email: daniatitienei@gmail.com
-- Linkedin: https://www.linkedin.com/in/daniel-atitienei-07446020a/?locale=en_US
 
 My tech stack ✨:
 - Jetpack Compose
