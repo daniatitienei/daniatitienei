@@ -12,6 +12,7 @@ My tech stack ✨:
 - SQLDelight
 - Room
 - Moshi
+- Coil
 - DataStore
 - Git
 
