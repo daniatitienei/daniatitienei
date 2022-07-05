@@ -1,21 +1,30 @@
-- 👋 Hi, I’m @daniatitienei
-- 👀 I’m interested in Native Android Development
-- 🌱 I’m using Kotlin and Jetpack Compose.
-- 📫 Email: daniatitienei@gmail.com
-
 My tech stack ✨:
+
+**UI**
 - Jetpack Compose
-- MVVM, MVI
+- Kotlin
+
+**Architecture**
+- MVVM 
+- MVI
 - SOLID principles
 - Clean Architecture
-- Retrofit
-- Kotlin
 - Dagger Hilt
+
+**Networking**
+- Retrofit
+- Moshi
+
+**Databases**
 - SQLDelight
 - Room
-- Moshi
+- PostgreSQL
+- MySQL
+
+**Image gathering**
 - Coil
-- DataStore
+
+**Version Controls**
 - Git
 
 <!---
