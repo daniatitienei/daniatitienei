@@ -1,27 +1,26 @@
-My tech stack ✨:
-
 **UI**
 - Jetpack Compose
-- Kotlin
 
 **Architecture**
 - MVVM 
 - MVI
 - SOLID principles
-- Clean Architecture
-- Dagger Hilt
 
 **Networking**
 - Retrofit
 - Moshi
 
 **Databases**
-- SQLDelight
-- Room
 - PostgreSQL
 - MySQL
+- Cloud Firestore
 
-**Image gathering**
+**Local Data Storage**
+- SQLDelight
+- Room
+- DataStore
+
+**Third Party Libraries**
 - Coil
 
 **Version Controls**
