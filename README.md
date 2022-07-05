@@ -5,7 +5,8 @@
 
 My tech stack ✨:
 - Jetpack Compose
-- MVVM / Clean Architecture
+- MVVM, MVI
+- Clean Architecture
 - Retrofit
 - Kotlin
 - Dagger Hilt
