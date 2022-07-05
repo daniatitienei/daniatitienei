@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @daniatitienei
-- 👀 I’m interested in Mobile Development
+- 👀 I’m interested in Native Android Development
 - 🌱 I’m using Kotlin and Jetpack Compose.
 - 📫 Email: daniatitienei@gmail.com
 
 My tech stack ✨:
 - Jetpack Compose
 - MVVM, MVI
+- SOLID principles
 - Clean Architecture
 - Retrofit
 - Kotlin
