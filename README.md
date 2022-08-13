@@ -3,7 +3,7 @@
 
 ## Nice meeting you, I am [Atitienei Daniel][twitter]!
 - Android Developer
-- Mostly working on **Andorid 📱 and Kotlin 💥 and `Jetpack Compose` ♥❤**.
+- Mostly working on **`Android` 📱 and `Kotlin` 💥 and `Jetpack Compose` ♥❤**.
 - Tech writer on [medium.com][medium]
 
 [<img align="left" alt="@2307vivek | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
