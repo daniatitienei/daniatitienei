@@ -6,9 +6,6 @@
 - Mostly working on **`Android` 📱 and `Kotlin` 💥 and `Jetpack Compose` ♥❤**.
 - <a href="https://medium.com/@daniatitienei"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
 
-[<img align="left" alt="@daniatitienei1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Atitienei Daniel | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-  
 <br>
 
 ---
