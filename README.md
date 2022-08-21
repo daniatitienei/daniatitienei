@@ -4,10 +4,9 @@
 ## Nice meeting you, I am [Atitienei Daniel][twitter]!
 - Android Developer
 - Mostly working on **`Android` 📱 and `Kotlin` 💥 and `Jetpack Compose` ♥❤**.
-- Tech writer on [medium.com][medium]
+- Tech writer on <a href="https://medium.com/@daniatitienei"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
 
 [<img align="left" alt="@2307vivek | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<a href="https://medium.com/@skydoves"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>[medium]
 [<img align="left" alt="Vivek Singh | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
   
 <br>
@@ -18,7 +17,6 @@
   
 [twitter]: https://twitter.com/daniatitienei1
 [email]: mailto:daniatitienei@gmail.com
-[medium]: https://medium.com/@daniatitienei
 
 <a href='https://ko-fi.com/daniatitienei' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
