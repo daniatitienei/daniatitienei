@@ -1,7 +1,7 @@
 ### Hello there, 
 [![Twitter Follow](https://img.shields.io/twitter/follow/daniatitienei1?color=1DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=daniatitienei1)
 
-<a href="https://medium.com/@daniatitienei"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
+<a href="https://medium.com/@daniel.atitienei"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
 
 ## Nice meeting you, I am [Atitienei Daniel][twitter]!
 - Android Developer
