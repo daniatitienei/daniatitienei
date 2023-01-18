@@ -1,5 +1,5 @@
 ### Hello there, 
-[![Twitter Follow](https://img.shields.io/twitter/follow/daniatitienei1?color=1DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=danielatitienei)
+[![Twitter Follow](https://img.shields.io/twitter/follow/daniatitienei1?color=1DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=@danielatitienei)
 
 <a href="https://medium.com/@daniel.atitienei"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
 
