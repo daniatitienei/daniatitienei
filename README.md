@@ -5,9 +5,9 @@
 
 ## Nice meeting you, I am [Atitienei Daniel][twitter]!
 - Android Developer
-- Mostly working on **`Android` 📱 and `Kotlin` 💥 and `Jetpack Compose` ♥❤**.
+- Mostly working on **`Android` 📱 and `Kotlin` 💥 and `Jetpack Compose` ❤❤**.
   
-[twitter]: https://twitter.com/daniatitienei1
+[twitter]: https://twitter.com/danielatitienei
 [email]: mailto:daniatitienei@gmail.com
 
 <!---
