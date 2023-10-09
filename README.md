@@ -20,4 +20,4 @@ Here are some of the skills I bring to the table:
 
 Feel free to explore my repositories and reach out if you have any questions or need assistance with any of these technologies. I'm here to collaborate and share my expertise with the developer community. Let's build amazing apps together! 🚀
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/danielatitienei)
+[![Twitter Follow](https://img.shields.io/twitter/follow/danielatitienei?style=social)](https://twitter.com/danielatitienei)
