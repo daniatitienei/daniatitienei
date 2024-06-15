@@ -1,6 +1,6 @@
 # Developer with a Passion for Jetpack Compose and SwiftUI
 
-Welcome to my GitHub repository! I'm passionate about teaching developers how to build Android applications using Jetpack Compose and SwiftUI. With over 140,000 views on my Medium blog and a dedicated Twitter following of over 770, I'm committed to sharing my knowledge and insights with the developer community.
+Welcome to my GitHub! I'm passionate about teaching developers how to build Android applications using Jetpack Compose and SwiftUI. With over 1000 followers on my Medium blog, a dedicated Twitter following of over 1200 followers and a YouTube channel with over 2000 subscribers, I'm committed to sharing my knowledge and insights with the developer community.
 
 ## Skills
 
