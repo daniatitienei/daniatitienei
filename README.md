@@ -1,7 +1,7 @@
 # Developer with a Passion for Jetpack Compose and SwiftUI
 
-Welcome to my GitHub! I am an Android Developer with +3 years of experience. Developed a wide variety of applications across multiple fields to help businesses achieve their goals. 
-With over 1300 followers on my Medium blog, a dedicated X account following of over 1500 followers, and a YouTube channel with over 3700 subscribers, I'm committed to sharing my knowledge and insights with the developer community.
+Welcome to my GitHub! I am an Android Developer with +4 years of experience. Developed a wide variety of applications across multiple fields to help businesses achieve their goals. 
+With over 1300 followers on my Medium blog, a dedicated X account following of over 1500 followers, and a YouTube channel with over 4300 subscribers, I'm committed to sharing my knowledge and insights with the developer community.
 
 ## Skills
 
