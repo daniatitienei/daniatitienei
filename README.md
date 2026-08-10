@@ -1,24 +1,36 @@
-# Developer with a Passion for Jetpack Compose and SwiftUI
+# Senior iOS & Mobile Engineer | Indie Product Builder 🚀
 
-Welcome to my GitHub! I am an Android Developer with +4 years of experience. Developed a wide variety of applications across multiple fields to help businesses achieve their goals. 
-With over 1300 followers on my Medium blog, a dedicated X account following of over 1700 followers, and a YouTube channel with over 4800 subscribers, I'm committed to sharing my knowledge and insights with the developer community.
+Welcome to my GitHub! I’m Daniel, a Senior Mobile Engineer and Indie App Developer based in Romania. I build and ship native iOS, Android, and Compose Multiplatform applications, scaling my own apps to 26k+ active users while helping startups launch high-impact products.
 
-## Skills
+I also create content around software development, modern UI frameworks, and product building, reaching thousands of developers across YouTube, X, and Medium.
 
-Here are some of the skills I bring to the table:
+---
 
-- **Jetpack Compose, SwiftUI**: I have extensive experience in building modern, declarative UIs for Android and iOS using Jetpack Compose and SwiftUI.
+### 🌟 Open Source & Libraries
 
-- **Kotlin, Swift, Kotlin Multiplatform Mobile**: I'm proficient in both Kotlin and Swift, and I also have experience with Kotlin Multiplatform Mobile for cross-platform development.
+- **[Pikto](https://github.com/daniatitienei/pikto)** — A modern Compose Multiplatform library designed for fast, seamless photo and video loading across Android, iOS, and Desktop.
 
-- **GraphQL, Retrofit, Ktor**: I have a strong background in working with GraphQL for efficient data fetching, as well as Retrofit for making RESTful API calls.
+---
 
-- **Room, SQL Delight, Realm**: I'm well-versed in database technologies, including Room, SQL Delight, and Realm, for efficient and scalable data storage solutions.
+### 🛠️ Tech Stack & Expertise
 
-- **Hilt, Koin**: Dependency injection is crucial in modern app development, and I have experience using Hilt for managing dependencies in Android apps.
+- **Mobile Frameworks:** Swift, SwiftUI, Kotlin, Jetpack Compose, Compose Multiplatform (CMP), Kotlin Multiplatform (KMP).
+- **Core Ecosystems:** StoreKit 2, RevenueCat, XCTest, Vision, Core ML, Room, Ktor, Coroutines, Combine.
+- **AI Integration:** Gemini API, OpenAI API, Voice Recognition, Image Generation pipelines.
+- **Architecture & Patterns:** Clean Architecture, MVVM, MVI, Multi-Module Setup, SOLID.
+- **Monetization & Growth:** Paywall Optimization, Dynamic Onboarding, Analytics, Push Notifications.
 
-- **CI/CD**: I understand the importance of Continuous Integration and Continuous Deployment (CI/CD) in the development process and can help set up pipelines for your projects.
+---
 
-Feel free to explore my repositories and reach out if you have any questions or need assistance with any of these technologies. I'm here to collaborate and share my expertise with the developer community. Let's build amazing apps together! 🚀
+### 📢 Community & Content Creation
+
+- **YouTube:** Tech & Dev Journey (+7,100 subscribers)
+- **X / Twitter:** Insights on iOS, Compose Multiplatform & Indie Hacking (+2,100 followers)
+- **Medium:** In-depth technical articles on modern mobile engineering (+1,300 followers)
+
+---
+
+### 📬 Connect With Me
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/danielatitienei?style=social)](https://twitter.com/danielatitienei)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Atitienei-blue?style=flat&logo=linkedin)](https://linkedin.com/in/danielatitienei)
