@@ -1,4 +1,4 @@
-# Senior iOS & Mobile Engineer | Indie Product Builder 🚀
+# Senior iOS & Mobile Engineer | Indie Mobile Dev 🚀
 
 Welcome to my GitHub! I’m Daniel, a Senior Mobile Engineer and Indie App Developer based in Romania. I build and ship native iOS, Android, and Compose Multiplatform applications, scaling my own apps to 26k+ active users while helping startups launch high-impact products.
 
