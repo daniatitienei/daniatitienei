@@ -33,4 +33,4 @@ I also create content around software development, modern UI frameworks, and pro
 ### 📬 Connect With Me
 [![YouTube Subscriber Count](https://img.shields.io/youtube/channel/subscribers/UCoQluKRjwq-7HvpSv8fZ2Lw?style=social&label=YouTube)](https://youtube.com/@daniel.atitienei)
 [![Twitter Follow](https://img.shields.io/twitter/follow/danielatitienei?style=social&label=Follow%20%40danielatitienei)](https://twitter.com/danielatitienei)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Atitienei-blue?style=social&logo=linkedin)](https://linkedin.com/in/daniel-atitienei)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-500%2B%20Connections-blue?style=social&logo=linkedin)](https://linkedin.com/in/daniel-atitienei)
