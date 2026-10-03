@@ -1,36 +1,38 @@
-# Senior iOS & Android Engineer | Indie Mobile Dev 🚀
+# Hi, I'm Daniel 👋
 
-Welcome to my GitHub! I’m Daniel, a Senior Mobile Engineer and Indie App Developer based in Romania. I build and ship native iOS, Android, and Compose Multiplatform applications, scaling my own apps to 26k+ active users while helping startups launch high-impact products.
+Senior native mobile engineer based in Romania. I build iOS and Android apps end to end (product, design, code and growth) and ship them under my own name.
 
-I also create content around software development, modern UI frameworks, and product building, reaching thousands of developers across YouTube, X, and Medium.
+- **30+ apps** live on the App Store
+- **30,000+ downloads** across my apps
+- Native **Swift / SwiftUI** and **Kotlin / Jetpack Compose**, with **Compose Multiplatform** when one codebase is the right call
+- Open source: **[Pikto](https://github.com/daniatitienei/pikto)**, a Compose Multiplatform photo & video library published on Maven Central
 
----
+I also have a [YouTube channel](https://youtube.com/@daniel.atitienei) and write on [Medium](https://medium.com/@daniel.atitienei) about mobile development.
 
-### 🌟 Open Source & Libraries
+## Apps I've shipped
 
-- **[Pikto](https://github.com/daniatitienei/pikto)** — A modern Compose Multiplatform library designed for fast, seamless photo and video loading across Android, iOS, and Desktop.
+| App | What it does | Rating |
+|---|---|---|
+| [nobloat](https://apps.apple.com/us/app/debloat-nobloat-your-face/id6753614294) | Connects daily habits to how your face looks, with a plan to follow | ★ 4.8 |
+| [Beamy](https://apps.apple.com/us/app/tanning-uv-index-spf-beamy/id6748317346) | Real-time UV index, SPF and safe tanning guidance | ★ 4.7 |
+| [Fongy TCG](https://apps.apple.com/us/app/card-value-scanner-fongy-tcg/id6764568369) | Scan a trading card, see what it's worth, track your collection | ★ 4.3 |
+| [Temper](https://apps.apple.com/us/app/screen-time-control-temper/id6758678100) | Screen time control built around focus and discipline | ★ 5.0 |
+| [SwipeGallery](https://apps.apple.com/us/app/photo-cleaner-swipegallery/id6797761734) | Clean up your camera roll by swiping | New |
 
----
+**[See all my apps on the App Store →](https://apps.apple.com/us/developer/daniel-petrisor-atitienei/id1799391459)**
 
-### 🛠️ Tech Stack & Expertise
+## What I work with
 
-- **Mobile Frameworks:** Swift, SwiftUI, Kotlin, Jetpack Compose, Compose Multiplatform (CMP), Kotlin Multiplatform (KMP).
-- **Core Ecosystems:** StoreKit 2, RevenueCat, XCTest, Vision, Core ML, Room, Ktor, Coroutines, Combine.
-- **AI Integration:** Gemini API, OpenAI API, Voice Recognition, Image Generation pipelines.
-- **Architecture & Patterns:** Clean Architecture, MVVM, MVI, Multi-Module Setup, SOLID.
-- **Monetization & Growth:** Paywall Optimization, Dynamic Onboarding, Analytics, Push Notifications.
+- **iOS:** Swift, SwiftUI, StoreKit 2, Vision, Core ML, Combine, XCTest
+- **Android:** Kotlin, Jetpack Compose, Coroutines, Room, Ktor, Koin
+- **Multiplatform:** Kotlin Multiplatform, Compose Multiplatform
+- **AI:** Gemini and OpenAI APIs, on-device ML, image generation pipelines
+- **Product:** RevenueCat, paywalls and onboarding experiments, analytics, push notifications
+- **Architecture:** MVVM, MVI, Clean Architecture, multi-module projects
 
----
+## Get in touch
 
-### 📢 Community & Content Creation
-
-- **YouTube:** Tech & Dev Journey (+7,100 subscribers)
-- **X / Twitter:** Insights on iOS, Compose Multiplatform & Indie Hacking (+2,100 followers)
-- **Medium:** In-depth technical articles on modern mobile engineering (+1,300 followers)
-
----
-
-### 📬 Connect With Me
-[![YouTube Subscriber Count](https://img.shields.io/youtube/channel/subscribers/UCoQluKRjwq-7HvpSv8fZ2Lw?style=social&label=YouTube)](https://youtube.com/@daniel.atitienei)
-[![Twitter Follow](https://img.shields.io/twitter/follow/danielatitienei?style=social&label=Follow%20%40danielatitienei)](https://twitter.com/danielatitienei)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Atitienei-blue?style=flat&logo=linkedin)](https://linkedin.com/in/daniel-atitienei)
+[![X](https://img.shields.io/badge/X-@danielatitienei-000000?style=flat&logo=x)](https://x.com/danielatitienei)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Atitienei-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/daniel-atitienei)
+[![YouTube](https://img.shields.io/badge/YouTube-@daniel.atitienei-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@daniel.atitienei)
+[![Medium](https://img.shields.io/badge/Medium-@daniel.atitienei-000000?style=flat&logo=medium)](https://medium.com/@daniel.atitienei)
