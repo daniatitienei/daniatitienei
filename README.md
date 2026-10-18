@@ -13,11 +13,12 @@ I also have a [YouTube channel](https://youtube.com/@daniel.atitienei) and write
 
 | App | What it does | Rating |
 |---|---|---|
+| [Pip](https://apps.apple.com/us/app/screen-time-control-pip/id6758678100) | Blocks distracting apps and turns focus time into a streak with a companion | ★ 4.9 |
+| [SwipeGallery](https://apps.apple.com/us/app/photo-cleaner-swipegallery/id6797761734) | Clean up your camera roll by swiping | ★ 4.9 |
 | [nobloat](https://apps.apple.com/us/app/debloat-nobloat-your-face/id6753614294) | Connects daily habits to how your face looks, with a plan to follow | ★ 4.8 |
 | [Beamy](https://apps.apple.com/us/app/tanning-uv-index-spf-beamy/id6748317346) | Real-time UV index, SPF and safe tanning guidance | ★ 4.7 |
 | [Fongy TCG](https://apps.apple.com/us/app/card-value-scanner-fongy-tcg/id6764568369) | Scan a trading card, see what it's worth, track your collection | ★ 4.3 |
 | [Temper](https://apps.apple.com/us/app/screen-time-control-temper/id6758678100) | Screen time control built around focus and discipline | ★ 5.0 |
-| [SwipeGallery](https://apps.apple.com/us/app/photo-cleaner-swipegallery/id6797761734) | Clean up your camera roll by swiping | New |
 
 **[See all my apps on the App Store →](https://apps.apple.com/us/developer/daniel-petrisor-atitienei/id1799391459)**
 
